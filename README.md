@@ -25,4 +25,8 @@ The DistilBERT model achieved the best overall performance, significantly outper
 ## Future Improvements
 - Experiment with larger transformer models (e.g., RoBERTa)  
 - Improve handling of class imbalance  
-- Deploy as a real-time content moderation system  
+- Deploy as a real-time content moderation system
+
+## Visualizations
+- Per-label F1-score comparison across models  
+- Confusion matrices or classification reports for key labels  
